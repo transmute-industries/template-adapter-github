@@ -2,6 +2,37 @@ name: 'Transmute GitHub Adapter Action'
 description: |
   This action supports github and transmute platform adapter integrations.
 
+inputs:
+  did:
+    description: |
+      Organization's decentralized identifier
+    required: true
+
+  tokenEndpoint:
+    description: |
+      Transmute application token endpoint
+    required: true
+
+  tokenAudience:
+    description: |
+      Transmute application token audience
+    required: true
+  
+  apiBaseUrl:
+    description: |
+      Transmute application api base url
+    required: true
+
+  clientId:
+    description: |
+      Transmute application client id
+    required: true
+
+  clientSecret:
+    description: |
+      Transmute application client secret
+    required: true
+
 outputs:
   json:
     description: 'The output in as json.'
