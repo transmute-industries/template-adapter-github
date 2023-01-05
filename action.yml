@@ -1,0 +1,11 @@
+name: 'Transmute GitHub Adapter Action'
+description: |
+  This action supports github and transmute platform adapter integrations.
+
+outputs:
+  json:
+    description: 'The output in as json.'
+
+runs:
+  using: 'node16'
+  main: 'index.js'
