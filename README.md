@@ -5,7 +5,7 @@ The template to use when creating new github repositories for github adapters
 # Local testing
 
 You can run the github workflow locally https://github.com/nektos/act
-`act -j issue-credential --secret-file .secrets`
+`act -j issue-credential --secret-file .env`
 
 Please review their documentation before using this action.
 
