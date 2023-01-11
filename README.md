@@ -16,25 +16,25 @@ Github workflows. You can find this and other adapters at https://platform.trans
 
 To run the action to issue a credential, click on the Actions tab on the top of the repository.
 
-![](./figs/step_01.png)
+![Transmute Adapter Run Action](./figs/step_01.png)
 
 ### Step 02
 
 On the actions page, click on the Issue Credential list item, then click the Run workflow dropdown. And click on the Run workflow button to trigger the action to issue the credential.
 
-![](./figs/step_02.png)
+![Transmute Adapter Trigger Action](./figs/step_02.png)
 
 ### Step 03
 
 This will initialize a new action that will have a yellow spinning icon to indicate the workflow is running. Once the action is complete you should see the spinning yellow icon turn into a green check-mark.
 
-![](./figs/step_03.png)
+![Transmute Adapter Run Action - In Progress](./figs/step_03.png)
 
 ### Step 04
 
 Click on the Issue Credential text to see the details about the action that was run.
 
-![](./figs/step_04.png)
+![Transmute Adapter Run Action - Complete](./figs/step_04.png)
 
 You can click on the issued-verifiable-credential artifact in order to download the credential that you issued. And example of what this should look like is displayed below.
 
@@ -61,7 +61,7 @@ You can click on the issued-verifiable-credential artifact in order to download 
 
 If you want to verify that your credential was issued, you can navigate to your list of credentials in the application to see the credential populated there.
 
-![](./figs/step_05.png)
+![Transmute Adapter Run Action - Credential in platform](./figs/step_05.png)
 
 Congratulations on issuing your first credential with a workflow. See what other functionality we can help you unlock with Github workflows.
 
