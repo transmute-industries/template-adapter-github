@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://transmute.industries">
-    <img alt="Gatsby" src="https://avatars.githubusercontent.com/u/19918523?s=200&v=4" width="60" />
+    <img alt="Transmute" src="./figs/circle-logo.png" width="60" />
   </a>
 </p>
 <h1 align="center">
@@ -65,22 +65,14 @@ If you want to verify that your credential was issued, you can navigate to your 
 
 Congratulations on issuing your first credential with a workflow. See what other functionality we can help you unlock with Github workflows.
 
-## Learn more
+## 💡 Learn more
 
-- [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+- [Documentation](https://guide.transmute.industries/verifiable-data-platform/technical-documentation)
 
-- [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+- [Guides](https://guide.transmute.industries/verifiable-data-platform/)
 
-- [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+- [API Reference](https://platform.transmute.industries/openapi/openapi.yaml)
 
-- [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+## 📘 Help and Support
 
-- [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-- [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-## Help and Support
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal-ts)
+[Transmute Support](https://transmute.atlassian.net/servicedesk/customer/portal/1)
