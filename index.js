@@ -60,7 +60,7 @@ async function run() {
     const opts = getOpts();
     console.log(opts);
     const credential = {
-      "@context": "https://www.w3.org/2018/credentials/v1",
+      "@context": ["https://www.w3.org/2018/credentials/v1"],
       type: ["VerifiableCredential"],
       issuer: opts.did,
       issuanceDate: isoStringNoMS(new Date()),
